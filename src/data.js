@@ -18,7 +18,7 @@ function chillHop() {
             cover: "https://firebasestorage.googleapis.com/v0/b/pesoplumamusic.appspot.com/o/p.p..png?alt=media&token=170b6635-e01c-4fb1-b68e-40c9b8bd2f3f",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
-            audio: "https://mp3.chillhop.com/serve.php/?mp3=22794",
+            audio: "https://firebasestorage.googleapis.com/v0/b/pesoplumamusic.appspot.com/o/amg.mp3?alt=media&token=f44b373d-d802-498a-99a3-b2573009789f",
             active: false,
         },
         {
